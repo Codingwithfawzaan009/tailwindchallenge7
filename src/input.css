@@ -1,0 +1,4 @@
+@import "tailwindcss";
+@theme {
+  --font-hanken: "Hanken Grotesk", sans-serif;
+}
